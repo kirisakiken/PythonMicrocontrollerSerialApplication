@@ -15,6 +15,7 @@ With this application, you can communicate between microcontroller-computer usin
 6. To send data -> Write data to text box and send it.
 7. To recieve data -> Start listening with button and send data from microcontroller.
 
+*Note: You can use setup.py to convert entire project files to .exe*
 
 - Feel free to contact and ask anything via LinkedIn.
 
