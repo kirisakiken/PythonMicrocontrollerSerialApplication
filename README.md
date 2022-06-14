@@ -21,10 +21,12 @@ With this application, you can communicate between microcontroller-computer usin
 
 [**Bezmican Zehir**](https://www.linkedin.com/in/bezmicanzehir/)
 
+## Contributors
+- [@kirisakiken](https://github.com/kirisakiken)
+- [@safakxtrn](https://github.com/safakxtrn)
 
 
-
-# CREDITS
+### CREDITS
 
 - Bezmican Zehir
 
